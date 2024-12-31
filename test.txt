@@ -1,2 +1,6 @@
 This is a text file created in the visual studio codespace.
 
+This is and editing test using the vim plugin.
+
+It works!
+
